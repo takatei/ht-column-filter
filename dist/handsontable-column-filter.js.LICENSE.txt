@@ -1,0 +1,7 @@
+/**
+ * Column Filter Plugin for Handsontable 6.x (free version)
+ * Adds Excel-like dropdown filter with checkboxes to column headers
+ *
+ * @author Mike
+ * @license MIT
+ */
